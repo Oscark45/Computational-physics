@@ -4,8 +4,7 @@
 
 """
 Author:     Oscar Kaatranen
-Created:    %28/12/2019$
-Modified:   %(date)$ 
+Created:    28/12/2019
 
 Description
 
